@@ -1,0 +1,31 @@
+* {
+    margin: 10px;
+}
+
+body {
+    color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+p {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+#art02 {
+    background-color: bisque;
+    color: green;
+}
+
+.fonte-fantasy-pequena-crimsom {
+    font-family: fantasy;
+    font-size: 10px;
+    color: rgb(220, 20, 60);
+}
